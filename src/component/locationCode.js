@@ -69,6 +69,6 @@ class LocationCode extends Component {
   }
 }
 export default GoogleApiWrapper({
-  apiKey: "AIzaSyDFi3En28D2VLarCZyukSuSCUzmOABp9V0"
+  apiKey: "key"
 })(LocationCode);
 // export default LocationCode;
